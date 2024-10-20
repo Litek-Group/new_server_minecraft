@@ -2,7 +2,7 @@
 
 Selamat datang di repositori server Minecraft! Proyek ini berisi konfigurasi dan panduan untuk menjalankan server Minecraft menggunakan Java.
 
-## Cara Menjalankan Server
+## Cara Menjalankan Servers
 
 Untuk menjalankan server Minecraft, gunakan perintah berikut di terminal:
 
